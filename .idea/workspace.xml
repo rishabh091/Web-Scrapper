@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac64c778-1724-4d8e-91c3-ae8409008503" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/webScrapper/document/Scrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/webScrapper/document/Services.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/webScrapper/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webScrapper/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/webScrapper/domains/Mobiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/webScrapper/domains/Mobiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/webScrapper/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/webScrapper/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/webScrapper/document/Scrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/webScrapper/document/Scrapper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +91,7 @@
       <updated>1583694923822</updated>
       <workItem from="1583694929551" duration="3831000" />
       <workItem from="1583746577917" duration="2073000" />
-      <workItem from="1583749582676" duration="191000" />
+      <workItem from="1583749582676" duration="1495000" />
     </task>
     <servers />
   </component>
@@ -106,21 +103,21 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1583748832177" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583749724165">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1583750886971">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583749724165" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583749724165">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583750886971" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1583750886971">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583749724165" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583749724164">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583750886971" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1583750886971">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583749724164" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583749724165">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583750886971" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1583750886971">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583749724165" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583750886971" />
   </component>
 </project>

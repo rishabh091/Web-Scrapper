@@ -23,8 +23,6 @@ public class Scrapper {
 
     public ArrayList<Mobiles> scrap() throws IOException {
         Document document = Jsoup.connect(link).get();
-        System.out.println(document.title());
-
         Elements names = document.getElementsByClass("_3wU53n");
         Elements details = document.getElementsByClass("vFw0gD");
         Elements price = document.getElementsByClass("_1vC4OE");
