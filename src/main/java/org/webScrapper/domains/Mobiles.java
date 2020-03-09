@@ -3,7 +3,7 @@ package org.webScrapper.domains;
 public class Mobiles {
 
     private String name;
-    private double price;
+    private String price;
     private String brand;
     private String details;
     private String model;
@@ -18,11 +18,11 @@ public class Mobiles {
         this.name = name;
     }
 
-    public double getPrice() {
+    public String getPrice() {
         return price;
     }
 
-    public void setPrice(double price) {
+    public void setPrice(String price) {
         this.price = price;
     }
 
@@ -64,5 +64,18 @@ public class Mobiles {
 
     public void setCategory(String category) {
         this.category = category;
+    }
+
+    @Override
+    public String toString() {
+        return "Mobiles{" +
+                "name='" + name + '\'' +
+                ", price='" + price + '\'' +
+                ", brand='" + brand + '\'' +
+                ", details='" + details + '\'' +
+                ", model='" + model + '\'' +
+                ", imgUrl='" + imgUrl + '\'' +
+                ", category='" + category + '\'' +
+                '}';
     }
 }
